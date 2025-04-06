@@ -32,7 +32,7 @@ https://www.canva.com/design/DAGDjfrxAM4/eLKqze5kZfwVSIubE9p3tQ/edit?utm_content
 To get started, clone the repo and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/mariemhawry21/alzheimers-care-app.git
-cd alzheimers-care-app
+git clone https://github.com/mariemhawry21/AlZaheimer.git
+cd AlZaheimer
 npm install
 npm start
