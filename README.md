@@ -36,3 +36,7 @@ git clone https://github.com/mariemhawry21/AlZaheimer.git
 cd AlZaheimer
 npm install
 npm start
+
+##Notes
+- download expo go for ios and scan qr code after run project.
+- if there is any miss conflicts with versions on expo and project just update it .
